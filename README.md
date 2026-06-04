@@ -28,12 +28,11 @@ An CS & AI student at Banha University with a passion for turning data into acti
 - **LinkedIn:** [Abdelrahman Ehab](linkedin.com/in/abdelrhman-ehab-55a097386)
 
 ---
+### 📊 GitHub Activity & Overview
 
-### 📊 GitHub Stats
-
-![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdoehab2213-hub&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoehab2213-hub&layout=compact&theme=radical)
-
+- 🚀 **Main Focus:** Data Science, Machine Learning, and Algorithms, and OOP & Data Structure
+- ⚙️ **Current Projects:** Building end-to-end predictive models and Streamlit web applications.
+- 🎯 **Coding Goals:** Sharpening problem-solving skills through Competitive Programming.
 ---
 
 💡 *“The best way to predict the future is to create it.”*
